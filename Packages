@@ -1,0 +1,13 @@
+Package: com.psp.minionsbanana
+Version: 1.0
+Section: Ringtones
+Maintainer: PSP <333psp333@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs//com.psp.minionsbanana_1.0_iphoneos-arm.deb
+Size: 284642
+MD5sum: beeed51f639d9d26eed065b590c539bb
+Description: Ringtone from minions
+author: PSP <333psp333@gmail.com>
+name: Minions Banana
+

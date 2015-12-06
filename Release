@@ -1,0 +1,8 @@
+Origin: PSP
+Label: PSP
+Suite: stable
+Version: 1.1
+Codename: PSP
+Architectures: iphoneos-arm
+Components: main
+Description: this is what you need
