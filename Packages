@@ -8,6 +8,19 @@ Filename: debs//com.psp.minionsbanana_1.0_iphoneos-arm.deb
 Size: 284642
 MD5sum: beeed51f639d9d26eed065b590c539bb
 Description: Ringtone from minions
-author: PSP <333psp333@gmail.com>
 name: Minions Banana
+author: PSP <333psp333@gmail.com>
+
+Package: com.psp.police
+Version: 1.0
+Section: Ringtones
+Maintainer: PSP <333psp333@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs//com.psp.police_1.0_iphoneos-arm.deb
+Size: 394904
+MD5sum: a85bb1dccfec1f24e79116702b63c051
+Description: Ringtone of police siren
+name: POLICE
+author: PSP <333psp333@gmail.com>
 
